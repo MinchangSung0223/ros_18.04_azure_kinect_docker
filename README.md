@@ -2,4 +2,6 @@
 ```bash
 bash build.sh
 bash start.sh
+
+roslaunch azure_kinect_ros_driver kinect_rgbd.launch
 ```
